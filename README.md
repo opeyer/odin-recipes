@@ -1,1 +1,1 @@
-Welcome to my Odin Project "Recipes" project! In this project, I will showcase various basic HTML skills that I've learned.
+Welcome to my Odin Project "Recipes" project! In this example website, I will showcase various basic HTML skills that I've learned.

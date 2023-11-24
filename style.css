@@ -17,6 +17,10 @@ p, ul, ol {
     opacity: 0.9;
 }
 
+li {
+    margin: 15px;
+}
+
 body {
     background-image: url('img/tilebg.gif');
     width: 70%;

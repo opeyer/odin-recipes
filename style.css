@@ -1,10 +1,22 @@
 h1 {
-    background-color: grey;
+    background-color: darkslateblue;
     color: lightgreen;
     font-size: 28px;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+    opacity: 0.9;
 }
 
 p {
-    background-color: red;
+    background-color: floralwhite;
     font-size: 16px;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+    opacity: 0.9;
+}
+
+body {
+    background-image: url('img/tilebg.gif')
 }

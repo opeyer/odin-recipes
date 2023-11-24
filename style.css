@@ -21,4 +21,5 @@ body {
     background-image: url('img/tilebg.gif');
     width: 70%;
     margin: 75px auto;
+    font-family: 'Courier New', monospace;
 }

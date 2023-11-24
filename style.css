@@ -18,5 +18,7 @@ p, ul, ol {
 }
 
 body {
-    background-image: url('img/tilebg.gif')
+    background-image: url('img/tilebg.gif');
+    width: 80%;
+    margin: 75px auto;
 }
